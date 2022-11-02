@@ -1,5 +1,5 @@
 *What are my working hours?*
-* From 9 o'clock at office. Sometimes home office.
+* From 8 o'clock at 100% home office.
 
 *How I like to communicate?*
 * Slack
@@ -9,8 +9,10 @@
 * Java Backend
 
 *What makes me happy at work?*
-* Useful and successful apps with clever user guidance. Easy communication with colleagues.
+* Useful and successful apps with clever user guidance.
+* Easy communication with colleagues.
+* Clear responsibility and ownership of code
 
 *What drives me mad?*
-* Often switches from one language to another ( e.g. Swift -> Java)
+* Often switches from one language to another (e.g. Swift -> objC)
 * Screenshots of links or text.
