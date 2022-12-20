@@ -3,7 +3,7 @@
 
 *How I like to communicate?*
 * Slack
-* About complex topics in person or phone
+* About complex topics via video call or screen share
 
 *What topics are best left to others*
 * Java Backend
