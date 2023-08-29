@@ -10,9 +10,10 @@
 
 *What makes me happy at work?*
 * Useful and successful apps with clever user guidance.
-* Easy communication with colleagues.
-* Clear responsibility and ownership of code
+* Clear responsibility and ownership of code.
+* Using tools and SDKs for the intended use case.
 
 *What drives me mad?*
-* Often switches from one language to another (e.g. Swift -> objC)
+* Often switches from one language to another (e.g. Swift -> objC).
 * Screenshots of links or text.
+* Slow releases.
