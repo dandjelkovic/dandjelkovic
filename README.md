@@ -17,3 +17,4 @@
 * Often switches from one language to another (e.g. Swift -> objC).
 * Screenshots of links or text.
 * Slow releases.
+* MS Teams
