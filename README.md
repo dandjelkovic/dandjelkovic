@@ -7,6 +7,7 @@
 
 *What topics are best left to others*
 * Java Backend
+* Code Reviews ;)
 
 *What makes me happy at work?*
 * Useful and successful apps with clever user guidance.
@@ -17,4 +18,4 @@
 * Often switches from one language to another (e.g. Swift -> objC).
 * Screenshots of links or text.
 * Slow releases.
-* MS Teams
+* MS Teams.
