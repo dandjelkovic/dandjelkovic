@@ -1,5 +1,5 @@
 *What are my working hours?*
-* From 8 o'clock at 100% home office.
+* From 8 o'clock at home office.
 
 *How I like to communicate?*
 * Slack
