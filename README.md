@@ -13,6 +13,7 @@
 * Useful and successful apps with clever user guidance
 * Clear responsibility and ownership of code
 * Using tools and SDKs for the intended use case
+* Give me a chance and time preparing a solution
 
 *What drives me mad?*
 * Often switches from one language to another (e.g. Swift -> objC).
