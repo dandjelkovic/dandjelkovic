@@ -6,10 +6,12 @@
 * About complex topics via video call or screen share
 
 *What topics are best left to others*
-* Java Backend
+* Selling the product
 * Code Reviews
 
 *What makes me happy at work?*
+* Standards. Not reinventing the wheel.
+* Using tools and sofware in the author's intended way.
 * Useful and successful apps with clever user guidance
 * Clear responsibility and ownership of code
 * Using tools and SDKs for the intended use case
